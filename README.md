@@ -14,6 +14,7 @@ PC installed with SCILAB.
 ## OUTPUT: 
 
 
+
 ## RESULT: 
 Thus the decimation process by a factor M and interpolation process by a factor L using 
 SCILAB was implemented. 
